@@ -4,6 +4,12 @@ The published macOS disk images for **DigiCode**, a native code editor by
 [Digipacket](https://digipacket.net). The source lives in a private repository;
 this one exists so the download is open.
 
+## Documentation
+
+**[Guide de l'utilisateur](GUIDE.md)** — tout ce que DigiCode sait faire :
+raccourcis clavier, palette de commandes, recherche, Git, Project Launcher et
+ses recettes, serveur PHP + MySQL local, plugins WordPress, réglages.
+
 ## Installing
 
 ```sh
