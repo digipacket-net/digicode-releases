@@ -3,6 +3,8 @@
 Éditeur de code natif pour macOS, par [Digipacket](https://digipacket.net).
 Cette page couvre tout ce que la version 1.0.0 sait faire.
 
+**Français** · [English](GUIDE.en.md)
+
 Une question, un bug, une idée : <https://digipacket.net/contact>.
 
 ---
