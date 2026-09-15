@@ -6,9 +6,12 @@ this one exists so the download is open.
 
 ## Documentation
 
-**[Guide de l'utilisateur](GUIDE.md)** — tout ce que DigiCode sait faire :
-raccourcis clavier, palette de commandes, recherche, Git, Project Launcher et
-ses recettes, serveur PHP + MySQL local, plugins WordPress, réglages.
+The complete user guide — keyboard shortcuts, the command palette, search, Git,
+the Project Launcher and its recipes, the local PHP + MySQL server, WordPress
+plugins, settings and known limits:
+
+- **[User guide (English)](GUIDE.en.md)**
+- **[Guide de l'utilisateur (français)](GUIDE.md)**
 
 ## Installing
 
